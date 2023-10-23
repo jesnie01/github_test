@@ -14,4 +14,11 @@ public class Main {
             System.out.println("i = " + i);
         }
     }
+
+    /**
+     * Example
+     */
+    public static void doMagic() {
+        System.out.println("Feature branch");
+    }
 }
